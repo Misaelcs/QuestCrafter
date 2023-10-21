@@ -1,0 +1,1 @@
+QuestCrafter is a gamification tool designed for presential activities like treasure hunts, catering to leaders of youth groups, holiday camps, and scouts.
